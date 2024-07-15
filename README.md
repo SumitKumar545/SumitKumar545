@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumitkumar545" alt="sumitkumar545" /></a> </p>
 
-- 🔭 I’m currently working on **Tech Ops Design**
+- 🔭 I’m currently working on **Tech Ops Projects**
 
 - 💬 Ask me about **Technical skills: *Proficient in HTML, CSS, Bootstrap, and JavaScript. *Experience with CMS platforms such as WordPress. *Knowledge of responsive design and cross-browser compatibility. Design skills: *Strong understanding of typography, color theory, and layout *Ability to create user-friendly and visually appealing websites. *Experience with PowerPoint presentations. *Experience with Adobe Creative Suite (Photoshop, Illustrator, Figma, Dreamweaver). Soft skills: *Ability to work independently and as part of a team. *Attention to detail and ability to meet deadlines. *Problem-solving skills *Passion for web design and the latest trends.**
 
